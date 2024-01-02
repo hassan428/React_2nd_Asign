@@ -1,0 +1,66 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.nav_hero {
+    background-color: rgb(231, 214, 214);
+}
+
+.nav-text {
+    cursor: pointer;
+    font-size: large;
+    margin-top: 5px;
+}
+
+.nav-text:hover,
+.slider_30,
+.color:hover {
+    color: rgb(210, 42, 42);
+}
+
+.slider_30 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+
+.slider_heading {
+    font-size: 50px;
+}
+
+
+
+
+.btn:hover {
+    background-position: -100% 0;
+    color: white !important;
+    background-color: #d22a2a;
+}
+
+.banner_img,
+.heading_text,
+.color {
+    cursor: pointer;
+}
+
+.footer_bg,
+.input {
+    background-color: rgb(228, 233, 237);
+}
+
+.input {
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.input:hover {
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.footer_bg_2 {
+    background-color: rgb(200, 205, 210);
+}
